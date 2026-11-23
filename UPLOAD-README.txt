@@ -1,24 +1,13 @@
-KIPNGETICH GENERALLY WEBSITE UPDATE
+KIPNGETICH GENERALLY – WEBSITE DESIGN & AI DISCOVERY UPDATE
 
-This folder is a complete replacement website package for https://generallykip.github.io/.
+This package contains the updated homepage and AI discovery files.
+The homepage has a large, full-width logo at the top with a green, yellow and white colour theme.
 
-WHAT IS INCLUDED
-- index.html: the updated homepage, biography, education, experience, community engagement, ICT/innovation interests, social links and photo gallery.
-- images/: the uploaded graduation photographs and the supplied logo.
+UPLOAD:
+1. Open your GitHub Pages repository.
+2. Upload/replace index.html in the repository root.
+3. Upload llms.txt, robots.txt and sitemap.xml in the repository root, replacing existing copies if asked.
+4. The images folder is included in this package. Your current repository already has the images folder; do not upload duplicate image files if they are already there.
+5. Commit the changes.
 
-IMPORTANT
-- The Google Search Console verification meta tag from your previous index.html has been preserved.
-- The photos were included as supplied in the earlier photo pack / with gentle clarity adjustments only. No face replacement or face reshaping was used.
-- Experience entries are described without adding dates that were not confirmed.
-- This package has NOT been uploaded to GitHub. You must upload these files to the repository to publish the update.
-
-HOW TO PUBLISH USING GITHUB ON A PHONE
-1. Download and extract kipngetich-generally-website-update.zip.
-2. Open your GitHub repository: generallykip/generallykip.github.io
-3. Open the repository's main/root folder (the page where the current index.html is located).
-4. Replace the existing index.html with this new index.html.
-5. Upload the entire images folder and all the image files inside it, keeping the folder name exactly as images.
-6. Commit the changes to the main branch.
-7. Wait a few minutes, then open https://generallykip.github.io/ and refresh. If the old version remains, clear the browser cache or check again after a few minutes.
-
-DO NOT upload the ZIP file alone. GitHub Pages needs index.html and the images folder in the repository root.
+Keep the Google Search Console verification meta tag in index.html. It is preserved in this updated file.
